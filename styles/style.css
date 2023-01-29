@@ -1,0 +1,44 @@
+* {
+    font-family: "Courier New","DejaVu Sans", sans-serif;
+    color:black;
+    background-color: lightgray;
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+    font-weight:900;
+    font-size: 35px;
+}
+
+#first-link a {
+    background-color: rgba(0,141,68,1);
+}
+
+
+a .a-class {
+    color:yellow;
+}
+
+.a-class {
+    color:yellow;
+}
+
+#second-link a {
+    background-color: rgb(255,255,255);
+    color:green;
+}
+
+a {
+    background-color: rgba(200,42,53,1);
+}
+
+.link-list li {
+    color:orange;
+}
+
+img {
+    width: 450px;
+    height: auto;
+
+}
